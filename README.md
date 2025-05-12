@@ -61,7 +61,7 @@ If you'd like to contribute to this project, feel free to submit pull requests. 
 
 ## License
 
-[Your License (e.g., MIT License)](LICENSE)
+[Your License (e.g., MIT License)](LICENSE.md)
 
 ## Disclaimer
 
