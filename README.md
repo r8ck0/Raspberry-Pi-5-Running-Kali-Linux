@@ -51,14 +51,6 @@ This section would typically describe any custom scripts or configurations inclu
     ```
 * **Configuration files:** Instructions on how to modify specific configuration files for your setup.
 
-## Usage
-
-Explain how to use any scripts or custom configurations you've included.
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to submit pull requests. Please ensure your contributions follow best practices.
-
 ## License
 
 [Your License (e.g., MIT License)](LICENSE.md)
