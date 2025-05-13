@@ -58,3 +58,6 @@ This section would typically describe any custom scripts or configurations inclu
 ## Disclaimer
 
 This project is provided for educational and personal use only. The creators are not responsible for any misuse of the information or tools provided. Use responsibly and ethically.
+
+[Raspberry Pi 5]
+(https://www.raspberrypi.com/products/raspberry-pi-5/)
