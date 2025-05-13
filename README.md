@@ -63,4 +63,3 @@ This project is provided for educational and personal use only. The creators are
 (https://www.raspberrypi.com/products/raspberry-pi-5/)
 
 [Sandisk 16gb sd card]
-(https://shop.sandisk.com/products/memory-cards/microsd-cards/sandisk-ultra-uhs-i-microsd?sku=SDSQUNC-016G-AN6MA&ef_id=CjwKCAjwuIbBBhBvEiwAsNypvU6Oi8FLKHE5mq58zuT2UGAY4MBZzDuoKGRDCuX0iheYJwTC90RwqBoCgFAQAvD_BwE:G:s&s_kwcid=AL!15012!3!!!!x!!!21840826498!&utm_medium=pdsh2&utm_source=gads&utm_campaign=Google-B2C-Conversion-Pmax-NA-US-EN-Memory_Card-All-All-Brand&utm_content=&utm_term=SDSQUNC-016G-AN6MA&cp2=&gad_source=1&gad_campaignid=21836907008&gbraid=0AAAAA-HVYqkwkyt6NCMcz9TcEMHqMaQIp&gclid=CjwKCAjwuIbBBhBvEiwAsNypvU6Oi8FLKHE5mq58zuT2UGAY4MBZzDuoKGRDCuX0iheYJwTC90RwqBoCgFAQAvD_BwE)
